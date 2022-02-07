@@ -1,0 +1,8 @@
+----------2----------
+Order number:2
+Client number and username:3 andrei12
+Date and day:Mon Jan 21 10:00:01 EET 2019 Monday
+Menu list:
+* French Onion Soup 
+* Butternut Squash Soup with Star Anise and Ginger Shrimp 
+Orders price: 136

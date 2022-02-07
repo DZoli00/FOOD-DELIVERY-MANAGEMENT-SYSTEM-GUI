@@ -1,0 +1,7 @@
+----------3----------
+Order number:3
+Client number and username:4 andrei12
+Date and day:Thu Jan 21 20:00:32 EET 2021 Thursday
+Menu list:
+* Butternut Squash Soup with Star Anise and Ginger Shrimp 
+Orders price: 93
